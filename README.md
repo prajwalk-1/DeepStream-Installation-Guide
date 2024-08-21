@@ -1,4 +1,4 @@
-# DeepStream-Installation-WSL-Ubuntu-20.04
+# DeepStream Installation WSL-Ubuntu-20.04
 
 ## Overview
 
