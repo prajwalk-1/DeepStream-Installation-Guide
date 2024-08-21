@@ -171,7 +171,7 @@ sudo apt upgrade
 
 ## Additional Resources
 
-- [NVIDIA DeepStream Documentation](https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/)
+- [NVIDIA DeepStream Documentation](https://docs.nvidia.com/metropolis/deepstream/dev-guide/)
 - [NVIDIA CUDA Documentation](https://docs.nvidia.com/cuda/)
 - [NVIDIA cuDNN Documentation](https://docs.nvidia.com/deeplearning/cudnn/)
 - [NVIDIA TensorRT Documentation](https://docs.nvidia.com/deeplearning/tensorrt/)
