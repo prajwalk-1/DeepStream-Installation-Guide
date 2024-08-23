@@ -84,6 +84,8 @@ sudo apt upgrade
      ```bash
      nvcc --version
      ```
+     ![CUDA Version](https://github.com/user-attachments/assets/8bcf7660-1b2e-451d-9998-4e2d235c9d95)
+
 
 ### 4. Install cuDNN
 
