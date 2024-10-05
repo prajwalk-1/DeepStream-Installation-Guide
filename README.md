@@ -8,7 +8,7 @@ In this guide, you will learn how to set up DeepStream 6.2 on Windows Subsystem 
 
 ## Prerequisites
 
-- **WSL 2**: Ensure you have Windows Subsystem for Linux version-2 installed.
+- **WSL 2**: Ensure you have Windows Subsystem for Linux version 2 installed.
 - **Ubuntu 20.04**: You should have Ubuntu 20.04 installed on WSL 2.
 
 ### Installing Ubuntu 20.04 on WSL 2
